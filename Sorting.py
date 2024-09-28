@@ -1,7 +1,7 @@
 # 1. This code inputs 3 integer variables, sorts them and them outputs the result
-a = int(input("Please iput the first number"))
-b = int(input("Please iput the first number"))
-c = int(input("Please iput the first number"))
+a = int(input("Please input the first number"))
+b = int(input("Please input the second number"))
+c = int(input("Please input the third number"))
 if a>b:
     x=a
     a=b
