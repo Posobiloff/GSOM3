@@ -2,4 +2,7 @@ Conclusions:
 1. "If" as a logical operator is the essential and basic part of skripts in Phyton. It is simple, albeit very universal instrument - for instance, I was able to write sorting code using only three "ifs" without any other logical operators or I used it for calculating discriminants, artificial dialogues etc. So, "if" is the basemamnt of phyton knowledge.
 2. Loops in Phyton are working same as in Bash, so it was easy to master it. I guess it is also extremly useful for complex skripts whth if or while, but I'm going to master them later during the course.
 3. Lists are great and useful in skripts, yet they could hoard some nuances that beginner like me wouldn't conceive at the first glance. For instance, the difference between switching a=1, b=2, a=b and a=[], b=[], a=b - in the first case we would have two pointers (and that pecularity I expolited in my sorting.py skript) and in the second one we would have only one that would have repercussions for phyton's skripts. So, it is important to understand how Phyton hoards information and objetcs to use them in skripts properly.
-4. As a new user of Phyton I couldn't quite conceive why using tuples instead of lists sometimes. As far as I'm concerned tuples are faster that lists in Phyton and that's all (the difference, I deem, not so tangible in small simple skripts), but lists are more flexibale in therms of editing.
+4. As a new user of Phyton I couldn't quite conceive why using tuples instead of lists sometimes. As far as I'm concerned tuples are faster that lists in Phyton and that's all (the difference, I deem, not so tangible in small simple skripts), but lists are more flexibale in therms of editing.APPROVED
+\n APPROVED
+“nApproved”
+n “Approved”
